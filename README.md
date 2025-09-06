@@ -5,6 +5,16 @@ In the repository there is a folder for each dataset on which the analyis has be
 - Mastodon
 
 Each social media folder contains: 
+- code/
+  - dataset/
+    - 100_posts/
+      - download_100.py
+      - post_processing_100.ipynb
+        
+    - random/  
+      - download_random.py
+      - post_processing_random.ipynb
+
 - dataset/
   - 100_posts/
     - 02_2024.json
@@ -18,16 +28,6 @@ Each social media folder contains:
     - ...
     - 07/2025.json
       
-- code/
-  - dataset/
-    - 100_posts/
-      - download_100.py
-      - post_processing_100.ipynb
-        
-    - random/  
-      - download_random.py
-      - post_processing_random.ipynb
-
 Code contains two folders: 
 - dataset: contains the scripts to extract and post process the experimental dataset
 - random : contains the scripts to extract and post process the control dataset 
