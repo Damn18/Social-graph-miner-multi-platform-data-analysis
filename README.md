@@ -35,9 +35,13 @@ Code contains two folders:
 # Steps: 
 1. download requirements
 2. create a profile on both bluesky and mastodon
-3. retrieve tokens and copy them in env.
-4. run download.py & download_random.py
-5. run post_processing_100.ipynb & post_processing_random
+3. retrieve tokens
+4. create an .env file and define MASTODON_TOKEN and BLUESKY_USER/BLUESKY_PASS
+5. run download.py & download_random.py
+6. run post_processing_100.ipynb & post_processing_random.ipynb
+
+
+   
 
    
 
