@@ -36,7 +36,7 @@ Code contains two folders:
 1. download requirements
 2. create a profile on both bluesky and mastodon
 3. retrieve tokens and copy them in env.
-4. run download.py & download_random.py
+4. run download.py & download_random.py (be patient, there are Api limits set)
 5. run post_processing_100.ipynb & post_processing_random
 
    
