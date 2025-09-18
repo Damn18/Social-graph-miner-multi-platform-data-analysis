@@ -1,6 +1,6 @@
 # Social-graph-miner: multi-platform-data-analysis
 
-In the repository there is a folder for each dataset on which the analyis has been conducted: 
+In the repository there is a folder for each dataset on which the analysis has been conducted: 
 - Blueksy
 - Mastodon
 
