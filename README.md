@@ -6,14 +6,13 @@ In the repository there is a folder for each dataset on which the analyis has be
 
 Each social media folder contains: 
 - code/
-  - dataset/
-    - 100_posts/
-      - download_100.py
-      - post_processing_100.ipynb
-        
-    - random/  
-      - download_random.py
-      - post_processing_random.ipynb
+  - 100_posts/
+    - download_100.py
+    - post_processing_100.ipynb
+      
+  - random/  
+    - download_random.py
+    - post_processing_random.ipynb
 
 - dataset/
   - 100_posts/
